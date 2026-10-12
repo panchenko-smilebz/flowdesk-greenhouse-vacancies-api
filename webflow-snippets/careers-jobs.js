@@ -1,6 +1,6 @@
   /* ===== JOBS (Greenhouse) ===== */
-  // Rollback to Workable: set API_URL back to '/workable-vacancies-api/api/vacancies'
-  // and restore the previous JOBS block.
+  // Rollback to Workable: set API_URL to '/workable-vacancies-api/api/vacancies'.
+  // normalizeJobs accepts both response formats.
   (() => {
     const API_URL = '/greenhouse-vacancies-api/api/vacancies';
 
@@ -41,10 +41,18 @@
       return Array.isArray(data.jobs) ? data.jobs : [];
     }
 
+    // Greenhouse proxy returns strings; Workable proxy returns location objects.
+    function formatLocation(location) {
+      if (!location) return '';
+      if (typeof location === 'string') return location.trim();
+
+      return [location.city, location.subregion, location.country_name].filter(Boolean).join(', ');
+    }
+
     function normalizeJobs(rawJobs = []) {
       return rawJobs.map((job) => ({
         full_title: job.full_title || '',
-        formattedLocations: unique(Array.isArray(job.locations) ? job.locations : []),
+        formattedLocations: unique((Array.isArray(job.locations) ? job.locations : []).map(formatLocation)),
         department: job.department || '',
         url: job.url || '',
       }));
