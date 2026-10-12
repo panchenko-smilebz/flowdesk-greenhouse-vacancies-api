@@ -1,0 +1,101 @@
+{
+  "jobs": [
+    {
+      "absolute_url": "https://job-boards.eu.greenhouse.io/flowdesk/jobs/4998666101",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 4532274101,
+      "location": {
+        "name": "Paris"
+      },
+      "metadata": null,
+      "id": 4998666101,
+      "updated_at": "2026-10-07T08:05:50-04:00",
+      "requisition_id": "12",
+      "title": "Markets | Algo Trader Intern",
+      "company_name": "Flowdesk",
+      "first_published": "2026-10-07T08:05:05-04:00",
+      "language": "en",
+      "application_deadline": null,
+      "content": "&lt;div class=&quot;styles--2Kv6p&quot; data-ui=&quot;careers-page-content&quot;&gt;\n&lt;div lang=&quot;en&quot;&gt;\n&lt;div&gt;&amp;nbsp;&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;footer class=&quot;styles--2E7h8&quot; data-id=&quot;footer&quot;&gt;&lt;/footer&gt;",
+      "departments": [
+        {
+          "id": 4089476101,
+          "name": "Liquidity Provision ",
+          "child_ids": [],
+          "parent_id": 4089475101
+        }
+      ],
+      "offices": [
+        {
+          "id": 4059288101,
+          "name": "Paris",
+          "location": "Paris, France",
+          "child_ids": [],
+          "parent_id": null
+        }
+      ],
+      "ai_disclaimer": null,
+      "include_ai_disclaimer": null,
+      "ai_opt_out_request_url": "http://s101.recruiting.eu.greenhouse.io/ai_opt_out_request/job_post/4998666101/ai_opt_out"
+    },
+    {
+      "absolute_url": "https://job-boards.eu.greenhouse.io/flowdesk/jobs/4998860101",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 4532364101,
+      "location": {
+        "name": "Singapore"
+      },
+      "metadata": null,
+      "id": 4998860101,
+      "updated_at": "2026-10-07T08:05:31-04:00",
+      "requisition_id": "16",
+      "title": "Operations | Trading Operations Analyst",
+      "company_name": "Flowdesk",
+      "first_published": "2026-10-07T08:05:31-04:00",
+      "language": "en",
+      "application_deadline": null,
+      "content": "&lt;section class=&quot;styles--3vx-H&quot; data-ui=&quot;job-description&quot;&gt;\n&lt;h3 id=&quot;job-description-title&quot;&gt;&lt;strong&gt;Description&lt;/strong&gt;&lt;/h3&gt;\n&lt;div&gt;\n&lt;p&gt;At Flowdesk, we are building the infrastructure powering the next era of global finance. As a full-service digital asset trading and technology firm, we provide liquidity solutions, OTC trading, and market infrastructure that connect digital assets to global markets with institutional-grade precision, transparency, and scale. Flowdesk combines expertise from traditional finance, algorithmic trading, and blockchain technology to deliver always-on trading capabilities across the digital asset ecosystem.&lt;/p&gt;\n&lt;p&gt;Founded in 2020, we are a global team supporting institutions, exchanges, and token issuers to enable a&amp;nbsp; tokenized financial markets ecosystem.&lt;/p&gt;\n&lt;p&gt;Why join Flowdesk? You’ll be joining a company operating at the intersection of finance, technology, and crypto; solving complex market problems, building critical infrastructure, and helping shape how digital assets connect to global liquidity. We move fast, think long term, and work with a strong ownership mindset across engineering, trading, product, operations, and business teams.&lt;/p&gt;\n&lt;p&gt;As the Trading Operations Analyst, you will be responsible for overseeing critical aspects of our trading operations in the APAC region. You will play a key role in shaping trading strategies, ensuring governance and compliance, and managing the daily operational activities of the trading team.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Your ability to manage risk, coordinate interdepartmental activities, and foster strong client relationships will be essential to the success of our trading operations in Singapore.&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Key Responsibilities&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Manage trading routes for efficiency and profitability.&lt;/li&gt;\n&lt;li&gt;Establish and maintain automation structure and routes.&lt;/li&gt;\n&lt;li&gt;Enforce transaction authorization policies and document optimized trading processes.&lt;/li&gt;\n&lt;li&gt;Oversee tools and external service providers.&lt;/li&gt;\n&lt;li&gt;Implement automation and system integration, and advanced monitoring for market making and OTC derivatives activities.&lt;/li&gt;\n&lt;li&gt;Facilitate critical communication and workflow alignment between the APAC trading desk, global engineering, risk management, and compliance teams.&lt;/li&gt;\n&lt;li&gt;Provide operational tools for efficiency.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/div&gt;\n&lt;/section&gt;\n&lt;section class=&quot;styles--3vx-H&quot; data-ui=&quot;job-requirements&quot;&gt;\n&lt;h2&gt;&amp;nbsp;&lt;/h2&gt;\n&lt;h3 id=&quot;job-requirements-title&quot;&gt;&lt;strong&gt;Requirements&lt;/strong&gt;&lt;/h3&gt;\n&lt;div&gt;\n&lt;p&gt;&lt;strong&gt;Must Have&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Bachelor&#39;s degree in finance, economics, or a related field (MBA or relevant certifications a plus).&lt;/li&gt;\n&lt;li&gt;Strong knowledge of cryptocurrency exchanges and liquidity venues (spot/derivatives), OMS/EMS, FIX/REST/WebSocket APIs, and blockchain fundamentals (wallets, custody, fees, confirmations).&lt;/li&gt;\n&lt;li&gt;Excellent understanding of risk management and security protocols in the cryptocurrency industry.&lt;/li&gt;\n&lt;li&gt;Experience building operational dashboards, alerts, and workflows; familiarity with version control (Git) and basic CI/CD is advantageous.&lt;/li&gt;\n&lt;li&gt;Professional proficiency in English.&lt;/li&gt;\n&lt;li&gt;Regulatory/compliance exposure highly desirable (KYC/AML, Travel Rule, market abuse surveillance, licensing regimes).&lt;/li&gt;\n&lt;li&gt;Willingness to cover rotational shifts or on-call as needed for market hours and incident response.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Preferred&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Python skills (data wrangling, automation, monitoring, and reconciliation tooling).&lt;/li&gt;\n&lt;li&gt;Proficiency with SQL.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Person Profile&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Self-motivated, detail-oriented, and process-driven; able to improve and document controls and procedures.&lt;/li&gt;\n&lt;li&gt;Comfortable working in a fast-paced, 24/7 market environment; sound judgment under pressure and strong ownership mindset.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Company Culture &amp;amp; Values&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Take Action &amp;amp; Own the Mission&lt;/li&gt;\n&lt;li&gt;Be of Service &amp;amp; Contribute&lt;/li&gt;\n&lt;li&gt;Innovate, Create Value, &amp;amp; Be Courageous&lt;/li&gt;\n&lt;li&gt;Act with Integrity &amp;amp; Respect&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/div&gt;\n&lt;/section&gt;\n&lt;section class=&quot;styles--3vx-H&quot; data-ui=&quot;job-benefits&quot;&gt;\n&lt;h2&gt;&amp;nbsp;&lt;/h2&gt;\n&lt;h3 id=&quot;job-benefits-title&quot;&gt;&lt;strong&gt;Benefits&lt;/strong&gt;&lt;/h3&gt;\n&lt;div&gt;\n&lt;ul&gt;\n&lt;li&gt;International environment (English is the main language)&lt;/li&gt;\n&lt;li&gt;100% health coverage&lt;/li&gt;\n&lt;li&gt;Team events and offsites&lt;/li&gt;\n&lt;li&gt;Company Pension scheme&lt;/li&gt;\n&lt;li&gt;Learning and Development budget&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;/div&gt;\n&lt;div&gt;\n&lt;h3&gt;&lt;strong&gt;Recruitment Process&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Our process is consistent across all roles and is designed to assess genuine technical depth. Candidates should expect the following stages&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Stage 1 - Initial screening with TA (30 mins)&lt;/li&gt;\n&lt;li&gt;Stage 2 - Technical Screen (45 mins) - Meet the VP Trading Ops&lt;/li&gt;\n&lt;li&gt;Stage 3 - Onsite interview - Meet your future teammates (60 mins)&lt;/li&gt;\n&lt;li&gt;Stage 4 - Final interview - Meet the Global Head of Trading Ops (30 mins)&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;On the agenda, discussions rather than trick questions! These moments of exchange will allow you to understand how Flowdesk works and its values. But they are also (and above all) an opportunity for you to present your career path and your expectations for your next job!&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;We are committed to an inclusive and accessible recruitment process. If you require any reasonable adjustments or have specific needs to enable you to participate fully in the interview or assessment process (e.g., a sign language interpreter, extra time for a test, or an accessible location), please contact us to discuss how we can support you.&lt;/em&gt;&lt;/p&gt;\n&lt;/div&gt;\n&lt;/section&gt;",
+      "departments": [
+        {
+          "id": 4089495101,
+          "name": "APAC Desk",
+          "child_ids": [],
+          "parent_id": 4089493101
+        }
+      ],
+      "offices": [
+        {
+          "id": 4059290101,
+          "name": "Singapore",
+          "location": "Singapore",
+          "child_ids": [],
+          "parent_id": null
+        }
+      ],
+      "ai_disclaimer": null,
+      "include_ai_disclaimer": null,
+      "ai_opt_out_request_url": "http://s101.recruiting.eu.greenhouse.io/ai_opt_out_request/job_post/4998860101/ai_opt_out"
+    }
+  ],
+  "meta": {
+    "total": 2
+  }
+}

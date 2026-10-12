@@ -1,0 +1,19 @@
+{
+  "name": "greenhouse-vacancies-api",
+  "type": "module",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Proxy for Greenhouse Job Board API used by the Flowdesk Careers page",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "test": "node --test --experimental-strip-types test/*.test.ts"
+  },
+  "engines": {
+    "node": ">=22.12.0"
+  },
+  "dependencies": {
+    "astro": "^7.3.8"
+  }
+}
